@@ -1,5 +1,8 @@
 # Node JS Project Template
 
+### Features
+* Translates ES6 and above syntax to ES5 code
+
 ### Installation
 * Clone repo
 * `yarn install`
