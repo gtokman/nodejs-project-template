@@ -1,8 +1,8 @@
 {
-  "name": "project-template",
+  "name": "{{cookiecutter.project_name}}",
   "version": "1.0.0",
-  "description": "Node JS Template",
-  "author": "Gary Tokman",
+  "description": "{{cookiecutter.project_description}}",
+  "author": "{{cookiecutter.project_author}}",
   "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.0.0",
@@ -31,6 +31,6 @@
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "node-fetch": "^2.6.0",
-    "puppeteer": "^3.0.1"
+    "puppeteer": "^7.0.1"
   }
 }
