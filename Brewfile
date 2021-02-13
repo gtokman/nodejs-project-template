@@ -1,1 +1,2 @@
 brew "cookiecutter"
+brew "yarn"
